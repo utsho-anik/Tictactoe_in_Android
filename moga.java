@@ -73,3 +73,4 @@ public class GetterSetterExample1
         System.out.println(emp.toString());  
     }  
 } 
+//kuet tomake chudi//
