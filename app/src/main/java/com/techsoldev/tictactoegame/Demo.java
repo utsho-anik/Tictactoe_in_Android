@@ -12,6 +12,11 @@ public class Demo {
         this.address = address;
     }
 
+    public Demo(String name, String address) {
+        this.name = name;
+        this.address = address;
+    }
+
     public int getA() {
         return a;
     }
